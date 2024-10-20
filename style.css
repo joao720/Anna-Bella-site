@@ -1,0 +1,54 @@
+body{
+background-image: url(img/fundo.png);
+background-color: #d2d2c1;
+font: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#principal{
+
+width:900px;
+position: absolute;
+left: 25%;
+
+
+}
+
+#menu{
+background-color: #c5c5c2;
+border: solid 1px;
+padding: 18px;
+text-align: center;
+
+}
+
+a{
+color: #4b566a;
+text-decoration: none;
+font-weight: bold;
+padding: 5px;
+
+}
+
+#conteudo{
+background-color: #e8e8d9;
+padding: 15px;
+
+
+}
+
+
+#rodape{
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-camapanha{
+    border: 10px solid #c3c3ae;
+}
